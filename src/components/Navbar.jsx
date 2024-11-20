@@ -84,7 +84,7 @@ const Navbar = () => {
             Mis Proyectos
           </Link>
           <Link
-            to="/iniciar-sesion"
+            to="/login"
             className="bg-green-600 text-white px-6 py-3 rounded-full hover:bg-green-700 transition text-lg"
           >
             Iniciar Sesión
